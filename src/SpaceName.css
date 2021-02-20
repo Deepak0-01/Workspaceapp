@@ -1,0 +1,38 @@
+
+.workspace-1{
+
+    display:flex;
+  
+
+   
+}
+.spacename{
+    height:40px;
+  
+    transition: 1s linear;
+}
+
+.spacename :hover{
+   
+    cursor:pointer;
+   
+
+
+}
+
+.del_icon{
+
+    margin-left:30px;
+    margin-bottom:-10px;
+}
+
+.workspace_heading{
+
+    color:beige;
+    cursor: pointer;
+}
+
+.workspace_heading:hover{
+
+    color:rgb(10, 88, 231);
+}

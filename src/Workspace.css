@@ -1,0 +1,29 @@
+.modal_info{
+
+    margin-bottom:20px;
+}
+
+.workspace_section{
+
+    display:flex;
+    flex-direction:column;
+    justify-content: center;
+   
+    
+   
+}
+
+.workspace_section h2{
+
+    color:beige;
+    padding:20px;
+    display:flex;
+    justify-content: center;
+    margin-top:7px;
+}
+
+.workspace_name{
+    display:flex;
+    align-items: center;
+    cursor:pointer;
+}
